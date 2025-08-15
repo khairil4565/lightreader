@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2025-08-15T08:04:00Z",
+  "plugins": [
+    {
+      "id": "novelfull",
+      "name": "NovelFull",
+      "version": "1.0.0",
+      "description": "Access novels from NovelFull.net",
+      "author": "Your Name",
+      "website": "https://novelfull.net",
+      "plugin_url": "./plugins/novelfull.json",
+      "supported_features": ["search", "chapters", "offline_reading"],
+      "status": "active"
+    }
+  ]
+}
